@@ -1,26 +1,34 @@
-# CRUD Biblioteca de Jogos
+# Biblioteca de Jogos MVC
 
-Projeto MVC em Java Maven sem Spring Boot.
+Projeto CRUD desenvolvido em Java utilizando:
 
-## Tecnologias
-
-- Java
-- Servlet
+- Java Servlet
 - JSP
 - Maven
 - MySQL
 - MVC
 - DAO
+- Service
 
-## Como Rodar
+## Funcionalidades
 
-1. Criar banco MySQL com banco.sql
-2. Alterar usuário e senha em DatabaseConnection.java
-3. Rodar:
+- Cadastro de jogos
+- Listagem
+- Atualização
+- Exclusão
 
-mvn clean install
+## Tecnologias
 
-4. Fazer deploy no Tomcat
-5. Abrir:
+- Java
+- JSP
+- Servlet
+- MySQL
+- HTML
+- CSS
 
-http://localhost:8080/BibliotecaJogos/jogos
+## Como executar
+
+1. Criar banco MySQL
+2. Configurar ConnectionFactory
+3. Rodar Maven
+4. Deploy no Tomcat
