@@ -1,4 +1,6 @@
-# Biblioteca de Jogos MVC
+# Biblioteca de Jogos 
+
+Feito por Sebastião Marques Silva Junior e Pedro Lucas Ponciano Silva
 
 Projeto CRUD desenvolvido em Java utilizando:
 
