@@ -1,5 +1,5 @@
 br\com\biblioteca\model\Jogo.class
+br\com\biblioteca\servlet\JogoServlet.class
 br\com\biblioteca\service\JogoService.class
 br\com\biblioteca\dao\DatabaseConnection.class
 br\com\biblioteca\dao\JogoDAO.class
-br\com\biblioteca\servlet\JogoServlet.class
