@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS biblioteca_jogos;
+CREATE DATABASE IF NOT EXISTS api_jogos;
 
-USE biblioteca_jogos;
+USE api_jogos;
 
 CREATE TABLE IF NOT EXISTS jogos (
     id INT PRIMARY KEY AUTO_INCREMENT,
