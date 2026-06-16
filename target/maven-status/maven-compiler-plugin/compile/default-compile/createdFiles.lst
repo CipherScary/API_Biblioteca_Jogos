@@ -1,5 +1,12 @@
 br\com\biblioteca\model\Jogo.class
+br\com\biblioteca\model\Usuario.class
+br\com\biblioteca\controller\AuthController.class
+br\com\biblioteca\util\JsonUtil.class
+br\com\biblioteca\dao\UsuarioDAO.class
 br\com\biblioteca\servlet\JogoServlet.class
 br\com\biblioteca\service\JogoService.class
 br\com\biblioteca\dao\DatabaseConnection.class
 br\com\biblioteca\dao\JogoDAO.class
+br\com\biblioteca\service\AuthService.class
+br\com\biblioteca\controller\JogoController.class
+br\com\biblioteca\util\JwtUtil.class

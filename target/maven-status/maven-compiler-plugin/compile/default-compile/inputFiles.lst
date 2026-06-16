@@ -1,12 +1,12 @@
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\dao\UsuarioDAO.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\service\JogoService.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\servlet\JogoServlet.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\model\Usuario.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\util\JwtUtil.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\controller\AuthController.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\dao\JogoDAO.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\controller\JogoController.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\dao\DatabaseConnection.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\service\AuthService.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\model\Jogo.java
-C:\Users\pocia\Downloads\PROJBibliotecaJogos (2) (1)\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\util\JsonUtil.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\controller\AuthController.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\dao\DatabaseConnection.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\util\JsonUtil.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\dao\JogoDAO.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\service\AuthService.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\util\JwtUtil.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\controller\JogoController.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\model\Jogo.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\service\JogoService.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\dao\UsuarioDAO.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\model\Usuario.java
+c:\Projetos\PROJBibliotecaJogos\src\main\java\br\com\biblioteca\servlet\JogoServlet.java
